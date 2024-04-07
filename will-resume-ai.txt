@@ -1,0 +1,59 @@
+PROFILE
+Problem-solving food professional turned self-taught programmer.  A mind for data with a heart for hospitality. Has a vision for technology to be something genuinely helpful instead of an impediment. Intuitive, kind, and analytical. Driven by helping others from lending a hand to developing systems to make things easier
+EXPERIENCE
+
+Resume:
+Hattie B’s Hot Chicken May 2015-June 2022
+Operations Analyst, Hattie B’s Hot Chicken, Nashville, TN - 2018-2022
+-	Create weekly, quarterly, and annual financial reports and help make decisions based on that data
+-	Create Python scripts and processes to reduce labor hours to create that reporting by 90%
+-	Create Python scripts to produce automated reports weekly
+-	Managed parts of building projects including pre-construction planning to installation of hardware
+-	Participate in contract negotiations to ensure a fair and equitable deal between both companies and maintaining good relationships during negotiations
+
+-	Conducted weekly inventory checks and conduct weekly meetings with managers to help improve operational efficiency saving money and reducing costs 
+
+-	Vetted all technology hardware and software purchases
+-	Train employees on all technology systems including creating training videos, reading materials, and reports
+-	Work across all departments to assist and provide support for any technological issues or questions
+-	Fielded all IT help requests from 180+ employees and all departments
+
+Manager, Hattie B’s Hot Chicken, Nashville, TN - 2016-2018
+-	Manage the daily operations of the restaurant
+-	Train and onboard new employees
+-	Manage inventory
+-	Resolve any conflicts that come from operations of a busy restaurant
+
+Server, Hattie B’s Hot Chicken, Nashville, TN - 2015-2016
+
+Travel Year, Workaway, 2022-2023
+-	Traveled through Europe working on farms, vineyards, and in households in exchange for room and board. These experiences included wine harvest in Mosel Valley, Germany, clearing land in County Cavan, Ireland, and working in an olive grove in Mirca, Croatia. 
+EDUCATION AND CERTIFICATES
+-	Auburn University, Auburn, AL - Master’s of Business Administration, 2018
+-	Auburn University, Auburn, AL - Graduate Certificate in Business Analytics, 2018
+-	Union University, Jackson, TN - B.S. in Political Science, 2015
+-	Foundations of Humane Technology course completion
+
+SKILLS
+-	Python 
+-	Database Management 
+
+-	Microsoft suite 
+
+-	Google suite 
+
+-	Data visualization
+
+
+Participated in hardware installations and full swap of new Point of Sales and Kitchen display screens and roleld out training
+
+Setup SSO sign on for the company's new Learning Management System to help facilitate better access management across all technology systems.
+
+
+
+Below are Github Projects in python:
+
+K means Clustering:
+FPL Random Forest Regressor to Predict player scores
+NLP and NLTK for company reviews
+Voting record analysis

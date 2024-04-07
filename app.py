@@ -11,28 +11,48 @@ from langchain.prompts import (
     MessagesPlaceholder,
     SystemMessagePromptTemplate,
 )
+# Specify the tone file path
+file_path_tone = 'spice_messages.txt'
+
+# Specify the context file path
+file_path_resume = 'will-resume-ai.txt'
+
+# Read the contents of the tone file into a string
+with open(file_path_tone,  'r') as tone_file:
+    tone_data = tone_file.read()
+
+# Read the contents of the context file into a string
+with open(file_path_resume, 'r') as resume_file:
+    resume_data = resume_file.read()
+
 
 prompt = PromptTemplate(
-    input_variables=["chat_history", "question"],
-    template="""You are a very friendly AI. Answer the question from the human
+    input_variables=["chat_history", "question", "context", "tone"],
+    template = """Respond to this: {question} based only on the provided context:
     
-   
     chat_history: {chat_history}
 
-    human: {question}
- 
-    AI:
+    <context>
+    {context}
+    </context>
+    
+    And answer in the tone of the person who sent these messages:
 
+    START OF TONE DATA
+    {tone}
+    END OF TONE DATA
+    
+    AI:
     """
 )
 
 llm = ChatOpenAI(openai_api_key = st.secrets["openai_api_key"], temperature=0.1)
-memory =ConversationBufferWindowMemory(memory_key="chat_history", k=5)
-llm_chain = LLMChain(
-    llm=llm,
-    memory=memory,
-    prompt=prompt
-)
+#memory =ConversationBufferWindowMemory(memory_key="chat_history", k=5)
+#llm_chain = LLMChain(
+#    llm=llm,
+#    memory=memory,
+#    prompt=prompt
+#)
 
 st.set_page_config(
     page_title="ChatGPT test",
@@ -51,17 +71,18 @@ for message in st.session_state.messages:
         st.write(message["content"])
 
 user_prompt = st.chat_input()
-
 if user_prompt is not None:
     st.session_state.messages.append(
         {"role": "user", "content": user_prompt})
     with st.chat_message("user"):
         st.write(user_prompt)
 
+final_prompt = prompt.format(question=user_prompt, tone=tone_data, context=resume_data, chat_history="")
+
 if st.session_state.messages[-1]["role"] != "assistant":
     with st.chat_message("assistant"):
         with st.spinner("Loading..."):
-            ai_response = llm_chain.predict(question=user_prompt)
+            ai_response = llm.predict(final_prompt) 
             st.write(ai_response) 
     new_ai_message = {"role": "assistant", "content": ai_response} 
     st.session_state.messages.append(new_ai_message)      
