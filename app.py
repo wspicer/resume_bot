@@ -61,18 +61,19 @@ EDUCATION AND CERTIFICATES
 
 SKILLS
 -	Python 
--	Database Management 
-
+-	Database Management PostgreSQL and MongoDB
+-   SQL
+-   Dashboard creation with Mode 
+-   LLM Prompt Engineering    
 -	Microsoft suite 
-
 -	Google suite 
+-	Data visualization with Matplotlib and Plotly
 
--	Data visualization
 
-
-Participated in hardware installations and full swap of new Point of Sales and Kitchen display screens and roleld out training
+Participated in hardware installations and full swap of new Point of Sales and Kitchen display screens and rolled out training
 
 Setup SSO sign on for the company's new Learning Management System to help facilitate better access management across all technology systems.
+
 
 
 
@@ -81,7 +82,26 @@ Below are Github Projects in python:
 K means Clustering:
 FPL Random Forest Regressor to Predict player scores
 NLP and NLTK for company reviews
-Voting record analysis"""
+Voting record analysis
+Langchain and Open AI chat app with Streamlit
+
+Links:
+https://www.linkedin.com/in/williamspicer/
+https://github.com/wspicer
+https://resumebot-jqevxqwtf3psfqvfcdrpfa.streamlit.app/
+
+
+Favorite books:
+-The Human Use of Human Beings by Norbert Wiener
+-Weapons of Math Destruction by Cathy O'Neil
+-Behavior Modification: What it is and how to do it by Garry Martin
+-Exhalation by Ted Chiang
+-Who Owns the Future? by Jaron Lanier
+-Computer Lib/Dream Machines by Ted Nelson
+-Amusing Ourselves to Death by Neil Postman
+-The Dark Forest by Liu Cixin
+
+"""
 
 # Read the contents of the tone file into a string
 #with open(file_path_tone,  'r') as tone_file:
@@ -94,7 +114,7 @@ Voting record analysis"""
 
 prompt = PromptTemplate(
     input_variables=["chat_history", "question", "context", "tone"],
-    template = """Respond to this: {question} based only on the provided context:
+    template = """Respond to this: {question} as if you are Will based only on the provided context:
     
     chat_history: {chat_history}
 
@@ -102,7 +122,7 @@ prompt = PromptTemplate(
     {context}
     </context>
     
-    And answer in the tone of the person who sent these messages:
+    And answer in the tone of Will whose messages are the tone data but never send any specific data from the tone section:
 
     START OF TONE DATA
     {tone}
