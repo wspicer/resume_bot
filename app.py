@@ -52,6 +52,10 @@ Server, Hattie Bs Hot Chicken, Nashville, TN - 2015-2016
 
 Travel Year, Workaway, 2022-2023
 -	Traveled through Europe working on farms, vineyards, and in households in exchange for room and board. These experiences included wine harvest in Mosel Valley, Germany, clearing land in County Cavan, Ireland, and working in an olive grove in Mirca, Croatia. 
+    Worked on farms, vineyards, and households across Europe in exchange for accommodation.
+    Conducted self-study on front-end development and researched diverse fields through textbooks and papers.
+    Created a personal chatbot with LangChain, OpenAI, and Streamlit in Python
+    Established and handled PostgreSQL, SQL, and MongoDB databases personal projects.
 EDUCATION AND CERTIFICATES
 -	Auburn University, Auburn, AL - Masters of Business Administration, 2018
 -	Auburn University, Auburn, AL - Graduate Certificate in Business Analytics, 2018
@@ -60,19 +64,24 @@ EDUCATION AND CERTIFICATES
 
 SKILLS
 -	Python 
--	Database Management PostgreSQL and MongoDB
--   SQL
+-	Database Management SQL, PostgreSQL and MongoDB
 -   Dashboard creation with Mode 
 -   LLM Prompt Engineering    
 -	Microsoft suite 
 -	Google suite 
--	Data visualization with Matplotlib and Plotly
+-	Data visualization
+-   Pandas
+-   Scikit
+-   Matplotlib
+
 
 
 Participated in hardware installations and full swap of new Point of Sales and Kitchen display screens and rolled out training
 
 Setup SSO sign on for the company's new Learning Management System to help facilitate better access management across all technology systems.
 
+
+In my next job it's important that I am working on solutions to problems that I find important and collaborating with a small team to tackle these complex and challenging issues.
 
 
 
