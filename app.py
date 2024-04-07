@@ -17,13 +17,16 @@ file_path_tone = 'spice_messages.txt'
 # Specify the context file path
 file_path_resume = 'will-resume-ai.txt'
 
+tone_data = st.file_uploader(file_path_tone)
+resume_data = st.file_uploader(file_path_resume)
+
 # Read the contents of the tone file into a string
-with open(file_path_tone,  'r') as tone_file:
-    tone_data = tone_file.read()
+#with open(file_path_tone,  'r') as tone_file:
+#    tone_data = tone_file.read()
 
 # Read the contents of the context file into a string
-with open(file_path_resume, 'r') as resume_file:
-    resume_data = resume_file.read()
+#with open(file_path_resume, 'r') as resume_file:
+#    resume_data = resume_file.read()
 
 
 prompt = PromptTemplate(
