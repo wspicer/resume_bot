@@ -121,15 +121,15 @@ llm = ChatOpenAI(openai_api_key = st.secrets["openai_api_key"], temperature=0.1)
 #)
 
 st.set_page_config(
-    page_title="ChatGPT test",
+    page_title="Resume bot",
     layout="wide"
 )
 
-st.title("Interview this for William Spicer")
+st.title("Resume AI William Spicer")
 
 if "messages" not in st.session_state.keys():
     st.session_state.messages = [
-        {"role": "assistant", "content": "Hello as a question"}
+        {"role": "assistant", "content": "Hello ask a question about William's resume!"}
     ]
 
 for message in st.session_state.messages:
