@@ -174,7 +174,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Resume AI William Spicer")
+st.title("Cybernetic Chatbot William Spicer")
 
 if "messages" not in st.session_state.keys():
     st.session_state.messages = [
