@@ -11,6 +11,8 @@ from langchain.prompts import (
     MessagesPlaceholder,
     SystemMessagePromptTemplate,
 )
+from openai.error import RateLimitError, OpenAIError  # Import the necessary error classes
+import loggin
 # Specify the tone file path
 #file_path_tone = 'spice_messages.txt'
 
