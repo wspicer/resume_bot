@@ -161,7 +161,7 @@ prompt = PromptTemplate(
     """
 )
 
-llm = ChatOpenAI(openai_api_key = st.secrets["openai_api_key"], temperature=0.1)
+llm = ChatOpenAI(openai_api_key = st.secrets["openai_api_key"], temperature=0.1, model=gpt-3.5-turbo)
 #memory =ConversationBufferWindowMemory(memory_key="chat_history", k=5)
 #llm_chain = LLMChain(
 #    llm=llm,
