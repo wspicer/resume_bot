@@ -199,7 +199,7 @@ if st.session_state.messages[-1]["role"] != "assistant":
     with st.chat_message("assistant"):
         with st.spinner("Loading..."):
             response = llm.invoke(final_prompt)  # Updated to use invoke
-            ai_response = response['choices'][0]['message']['content']  # Extract only the content
+            ai_response = response.content  # Extract only the content
             st.write(ai_response)
     new_ai_message = {"role": "assistant", "content": ai_response} 
     st.session_state.messages.append(new_ai_message)
