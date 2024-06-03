@@ -197,7 +197,18 @@ final_prompt = prompt.format(question=user_prompt, tone=tone_data, context=resum
 if st.session_state.messages[-1]["role"] != "assistant":
     with st.chat_message("assistant"):
         with st.spinner("Loading..."):
-            ai_response = llm.invoke(final_prompt)
-            st.write(ai_response) 
+            try:
+                response = llm.invoke(final_prompt)  # Updated to use invoke
+                ai_response = response['choices'][0]['message']['content']  # Extract only the content
+                st.write(ai_response)
+            except RateLimitError as e:
+                logging.error(f"RateLimitError: {e}")
+                st.error("Rate limit exceeded. Please try again later.")
+            except OpenAIError as e:
+                logging.error(f"OpenAIError: {e}")
+                st.error(f"An error occurred: {e}")
+            except Exception as e:
+                logging.error(f"Unexpected error: {e}")
+                st.error(f"An unexpected error occurred: {e}")
     new_ai_message = {"role": "assistant", "content": ai_response} 
-    st.session_state.messages.append(new_ai_message)      
+    st.session_state.messages.append(new_ai_message)
