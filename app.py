@@ -197,7 +197,7 @@ final_prompt = prompt.format(question=user_prompt, tone=tone_data, context=resum
 if st.session_state.messages[-1]["role"] != "assistant":
     with st.chat_message("assistant"):
         with st.spinner("Loading..."):
-            ai_response = llm.predict(final_prompt) 
+            ai_response = llm.invoke(final_prompt)
             st.write(ai_response) 
     new_ai_message = {"role": "assistant", "content": ai_response} 
     st.session_state.messages.append(new_ai_message)      
