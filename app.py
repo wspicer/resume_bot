@@ -30,33 +30,32 @@ EXPERIENCE
 Resume:
 Hattie Bs Hot Chicken May 2015-June 2022
 Operations Analyst, Hattie Bs Hot Chicken, Nashville, TN - 2018-2022
--	Create weekly, quarterly, and annual financial reports and help make decisions based on that data
--	Create Python scripts and processes to reduce labor hours to create that reporting by 90%
--	Create Python scripts to produce automated reports weekly
--	Managed parts of building projects including pre-construction planning to installation of hardware
--	Participate in contract negotiations to ensure a fair and equitable deal between both companies and maintaining good relationships during negotiations
-
--	Conducted weekly inventory checks and conduct weekly meetings with managers to help improve operational efficiency saving money and reducing costs 
-
--	Vetted all technology hardware and software purchases
--	Train employees on all technology systems including creating training videos, reading materials, and reports
--	Work across all departments to assist and provide support for any technological issues or questions
--	Fielded all IT help requests from 180+ employees and all departments
+    Create weekly, quarterly, and annual financial reports and assist in decision-making based on that data.
+    Develop Python scripts and processes to reduce labor hours required for report generation by 90%.
+    Write Python scripts for automated weekly report generation.
+    Manage aspects of building projects, from pre-construction planning to hardware installation.
+    Participate in contract negotiations to ensure fair and equitable deals between companies, maintaining good relationships during negotiations.
+    Conduct weekly inventory checks and hold meetings with managers to enhance operational efficiency, saving money and reducing costs.
+    Vet all technology hardware and software purchases.
+    Train employees on all technology systems, including creating training videos, reading materials, and reports.
+    Collaborate across all departments to provide assistance and support for any technological issues or questions.
+    Handle all IT help requests from 180+ employees and across all departments.
 
 Manager, Hattie Bs Hot Chicken, Nashville, TN - 2016-2018
--	Manage the daily operations of the restaurant
--	Train and onboard new employees
--	Manage inventory
--	Resolve any conflicts that come from operations of a busy restaurant
+    Manage the daily operations of the restaurant
+    Train and onboard new employees
+    Manage inventory
+    Resolve any conflicts that come from operations of a busy restaurant
 
 Server, Hattie Bs Hot Chicken, Nashville, TN - 2015-2016
 
-Travel Year, Workaway, 2022-2023
--	Traveled through Europe working on farms, vineyards, and in households in exchange for room and board. These experiences included wine harvest in Mosel Valley, Germany, clearing land in County Cavan, Ireland, and working in an olive grove in Mirca, Croatia. 
+Travel Year, Workaway
+
+Jul 2022 - Jan 2024 
     Worked on farms, vineyards, and households across Europe in exchange for accommodation.
     Conducted self-study on front-end development and researched diverse fields through textbooks and papers.
     Created a personal chatbot with LangChain, OpenAI, and Streamlit in Python
-    Established and handled PostgreSQL, SQL, and MongoDB databases personal projects.
+    Working with Google Colab notebooks to understand how to use PyTorch to solve problems
 EDUCATION AND CERTIFICATES
 -	Auburn University, Auburn, AL - Masters of Business Administration, 2018
 -	Auburn University, Auburn, AL - Graduate Certificate in Business Analytics, 2018
@@ -65,13 +64,12 @@ EDUCATION AND CERTIFICATES
 
 SKILLS
 -	Python 
--	Database Management SQL, PostgreSQL and MongoDB
--   Dashboard creation with Mode 
 -   LLM Prompt Engineering    
 -	Microsoft suite 
 -	Google suite 
 -	Data visualization
 -   Pandas
+-   Numpy
 -   Scikit
 -   Matplotlib
 
@@ -82,7 +80,7 @@ Participated in hardware installations and full swap of new Point of Sales and K
 Setup SSO sign on for the company's new Learning Management System to help facilitate better access management across all technology systems.
 
 
-In my next job it's important that I am working on solutions to problems that I find important and collaborating with a small team to tackle these complex and challenging issues.
+In my next job it's important that I am working on solutions to problems that I find important and collaborating with a small team to tackle these complex and challenging issues especially problems around climate change.
 
 
 
@@ -93,6 +91,7 @@ FPL Random Forest Regressor to Predict player scores
 NLP and NLTK for company reviews
 Voting record analysis
 Langchain and Open AI chat app with Streamlit
+
 
 Links:
 https://www.linkedin.com/in/williamspicer/
