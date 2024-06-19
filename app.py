@@ -28,7 +28,7 @@ Problem-solving food professional turned self-taught programmer.  A mind for dat
 EXPERIENCE
 
 Resume:
-Hattie Bs Hot Chicken May 2015-June 2022
+Hattie Bs Hot Chicken January 2018-June 2022
 Operations Analyst, Hattie Bs Hot Chicken, Nashville, TN - 2018-2022
     Create weekly, quarterly, and annual financial reports and assist in decision-making based on that data.
     Develop Python scripts and processes to reduce labor hours required for report generation by 90%.
