@@ -30,32 +30,34 @@ EXPERIENCE
 Resume:
 Hattie Bs Hot Chicken January 2018-June 2022
 Operations Analyst, Hattie Bs Hot Chicken, Nashville, TN - 2018-2022
-    Create weekly, quarterly, and annual financial reports and assist in decision-making based on that data.
-    Develop Python scripts and processes to reduce labor hours required for report generation by 90%.
-    Write Python scripts for automated weekly report generation.
-    Manage aspects of building projects, from pre-construction planning to hardware installation.
-    Participate in contract negotiations to ensure fair and equitable deals between companies, maintaining good relationships during negotiations.
-    Conduct weekly inventory checks and hold meetings with managers to enhance operational efficiency, saving money and reducing costs.
-    Vet all technology hardware and software purchases.
-    Train employees on all technology systems, including creating training videos, reading materials, and reports.
-    Collaborate across all departments to provide assistance and support for any technological issues or questions.
-    Handle all IT help requests from 180+ employees and across all departments.
+   Create weekly, quarterly, and annual financial reports, providing data-driven insights to assist in strategic decision-making.
+    Write Python scripts for automated weekly report generation, streamlining financial operations.
+    Oversee technological aspects of building projects, from pre-construction planning to hardware installation.
+    Participate in contract negotiations, securing fair and equitable deals while maintaining positive relationships with vendors and partners.
+    Conduct weekly inventory checks and lead meetings with managers to enhance operational efficiency, resulting in cost savings and reduced waste.
+    Vet all technology hardware and software purchases to ensure cost-effectiveness and alignment with operational needs.
+    Train employees on technology systems, creating comprehensive training videos, reading materials, and reports to facilitate learning.
+    Collaborate with all departments to provide assistance and support for technological issues or questions, ensuring seamless operations.
+    Handle IT help requests from over 180 employees across all departments, providing prompt and effective solutions to technical problems.
 
 Manager, Hattie Bs Hot Chicken, Nashville, TN - 2016-2018
-    Manage the daily operations of the restaurant
-    Train and onboard new employees
-    Manage inventory
-    Resolve any conflicts that come from operations of a busy restaurant
+    Supervised and coordinated a team of 20+ staff members to ensure smooth daily operations and exceptional customer service.
+Managed daily financial operations, including cash handling, bank deposits, and sales tracking.
+Conducted regular inventory checks and managed supply orders to maintain optimal stock levels and reduce waste.
+Trained new employees on restaurant procedures and service standards.
+Resolved customer complaints and issues effectively.
+Ensured compliance with health and safety regulations, conducting regular inspections and addressing any issues promptly.
+Developed and maintained staff schedules, optimizing labor costs while ensuring adequate coverage during peak hours.
 
 Server, Hattie Bs Hot Chicken, Nashville, TN - 2015-2016
 
 Travel Year, Workaway
 
 Jul 2022 - Jan 2024 
-    Worked on farms, vineyards, and households across Europe in exchange for accommodation.
-    Conducted self-study on front-end development and researched diverse fields through textbooks and papers.
-    Created a personal chatbot with LangChain, OpenAI, and Streamlit in Python
-    Working with Google Colab notebooks to understand how to use PyTorch to solve problems
+    Worked on farms, vineyards, and households across Europe in various cultural and ecological settings.
+Conducted self-study on front-end development and researched diverse fields like ecology, psychology, and various technologies.
+Created a personal chatbot with LangChain, OpenAI, and Streamlit in Python.
+Working with Google Colab notebooks and the Earth Species Project to help translate animal language.
 EDUCATION AND CERTIFICATES
 -	Auburn University, Auburn, AL - Masters of Business Administration, 2018
 -	Auburn University, Auburn, AL - Graduate Certificate in Business Analytics, 2018
