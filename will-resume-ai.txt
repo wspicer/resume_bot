@@ -43,10 +43,9 @@ Participated in hardware installations and full swap of new Point of Sales and K
 Setup SSO sign on for the company's new Learning Management System to help facilitate better access management across all technology systems.
 
 
+Predictive models used:
 
-Below are Github Projects in python:
-
-K means Clustering:
-FPL Random Forest Regressor to Predict player scores
+K means Clustering
+Random Forest Regressor
+Logistic Regression
 NLP and NLTK for company reviews
-Voting record analysis
