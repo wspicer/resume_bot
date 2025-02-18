@@ -28,78 +28,52 @@ Problem-solving food professional turned self-taught programmer.  A mind for dat
 EXPERIENCE
 
 Resume:
-Hattie Bs Hot Chicken January 2018-June 2022
-Operations Analyst, Hattie Bs Hot Chicken, Nashville, TN - 2018-2022
-   Create weekly, quarterly, and annual financial reports, providing data-driven insights to assist in strategic decision-making.
-    Write Python scripts for automated weekly report generation, streamlining financial operations.
-    Oversee technological aspects of building projects, from pre-construction planning to hardware installation.
-    Participate in contract negotiations, securing fair and equitable deals while maintaining positive relationships with vendors and partners.
-    Conduct weekly inventory checks and lead meetings with managers to enhance operational efficiency, resulting in cost savings and reduced waste.
-    Vet all technology hardware and software purchases to ensure cost-effectiveness and alignment with operational needs.
-    Train employees on technology systems, creating comprehensive training videos, reading materials, and reports to facilitate learning.
-    Collaborate with all departments to provide assistance and support for technological issues or questions, ensuring seamless operations.
-    Handle IT help requests from over 180 employees across all departments, providing prompt and effective solutions to technical problems.
+Hattie B’s Hot Chicken May 2015-June 2022
+Operations Analyst, Hattie B’s Hot Chicken, Nashville, TN - 2018-2022
+Managed IT infrastructure, including SSO and active directory with Okta, integrating with Wisetail LMS, Toast POS, ADT security, Jamf Apple device manager, Ctuit inventory management software, Olo online ordering, and Thanx mobile platform.
+Created weekly, quarterly, and annual financial reports, providing data-driven insights to assist strategic decision-making, including weekly meetings with operators to minimize waste and improve profitability.
+Wrote Python scripts for automated report generation, streamlining operations, creating a bi-annual employee review system, and gaining insights on guest review data.
+Oversaw technological aspects of building projects, from pre-construction planning with ADT security setup and Toast POS/KDS locations to hardware installation of the POS/KDS.
+Participated in contract negotiations with 3rd party vendors, including Uber Eats and DoorDash, ensuring great pricing for our business.
+Researched and made decisions on all technology hardware and software purchases to ensure cost-effectiveness and proper integrations to ensure smooth operations.
+Trained employees on technology systems, creating comprehensive training videos and FAQs with visual aids.
+Handled IT help requests from all employees across all departments, providing prompt and practical solutions to technical problems.
 
-Manager, Hattie Bs Hot Chicken, Nashville, TN - 2016-2018
-    Supervised and coordinated a team of 20+ staff members to ensure smooth daily operations and exceptional customer service.
+Manager, Hattie B’s Hot Chicken, Nashville, TN - 2016-2018
+Supervised and coordinated staff members to ensure smooth daily operations and exceptional customer service.
 Managed daily financial operations, including cash handling, bank deposits, and sales tracking.
 Conducted regular inventory checks and managed supply orders to maintain optimal stock levels and reduce waste.
 Trained new employees on restaurant procedures and service standards.
-Resolved customer complaints and issues effectively.
-Ensured compliance with health and safety regulations, conducting regular inspections and addressing any issues promptly.
-Developed and maintained staff schedules, optimizing labor costs while ensuring adequate coverage during peak hours.
 
-Server, Hattie Bs Hot Chicken, Nashville, TN - 2015-2016
 
-Travel Year, Workaway
-
-Jul 2022 - Jan 2024 
-    Worked on farms, vineyards, and households across Europe in various cultural and ecological settings.
-Conducted self-study on front-end development and researched diverse fields like ecology, psychology, and various technologies.
-Created a personal chatbot with LangChain, OpenAI, and Streamlit in Python.
-Working with Google Colab notebooks and the Earth Species Project to help translate animal language.
+Travel Year, Workaway, 2022-2023
+-	Traveled through Europe working on farms, vineyards, and in households in exchange for room and board. These experiences included wine harvest in Mosel Valley, Germany, clearing land in County Cavan, Ireland, and working in an olive grove in Mirca, Croatia. 
 EDUCATION AND CERTIFICATES
--	Auburn University, Auburn, AL - Masters of Business Administration, 2018
+-	Auburn University, Auburn, AL - Master’s of Business Administration, 2018
 -	Auburn University, Auburn, AL - Graduate Certificate in Business Analytics, 2018
 -	Union University, Jackson, TN - B.S. in Political Science, 2015
 -	Foundations of Humane Technology course completion
 
 SKILLS
 -	Python 
--   LLM Prompt Engineering    
--	Microsoft suite 
--	Google suite 
+-	Database Management 
+
+-	Google suite
+
 -	Data visualization
--   Pandas
--   Numpy
--   Scikit
--   Matplotlib
 
 
-
-Participated in hardware installations and full swap of new Point of Sales and Kitchen display screens and rolled out training
+Participated in hardware installations and full swap of new Point of Sales and Kitchen display screens and roleld out training
 
 Setup SSO sign on for the company's new Learning Management System to help facilitate better access management across all technology systems.
 
 
-In my next job it's important that I am working on solutions to problems that I find important and collaborating with a small team to tackle these complex and challenging issues especially problems around climate change.
+Predictive models used:
 
-
-
-Below are Github Projects in python:
-
-K means Clustering:
-FPL Random Forest Regressor to Predict player scores
+K means Clustering
+Random Forest Regressor
+Logistic Regression
 NLP and NLTK for company reviews
-Voting record analysis
-Langchain and Open AI chat app with Streamlit
-
-
-Links:
-https://www.linkedin.com/in/williamspicer/
-https://github.com/wspicer
-https://resumebot-jqevxqwtf3psfqvfcdrpfa.streamlit.app/
-
 
 Favorite books:
 -The Human Use of Human Beings by Norbert Wiener
@@ -121,7 +95,6 @@ Favorite thinkers
 - Alan Kay
 - Jaron Lanier
 - Donald Hoffman
-- Joy Buolamwini
 - Ted Nelson
 
 Technologies I find intriguing
